@@ -83,5 +83,5 @@ The Streamlit app allows users to:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+https://github.com/poojitha-211/credit_card_fraud_detectionAICW
+
